@@ -2,7 +2,7 @@
 <br>
 Click Here 👇<br><br>
 
-[Dashboard](https://app.powerbi.com/groups/me/reports/5f447278-dd59-4fa8-a582-e1a8474b9209/ReportSection?experience=power-bi)
+[Dashboard](https://app.powerbi.com/groups/me/reports/41c70580-1104-49f0-b663-4f73a38b2e6c/ReportSection10a75318579df7817014?experience=power-bi)
 
 <br>
 *Title: Power BI Project - Supplier Insights and Volume Analysis*<br><br>
