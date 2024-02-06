@@ -1,5 +1,7 @@
 # Power-BI-Project
 SUPPLIER INSIGHTS &amp; VOLUME ANALYSIS DASHBOARD – Power BI (Dashboards)
+
+
 • Created two dashboards with Power BI aimed at providing actionable insights to the Procurement Department by analyzing  invoice data, supplier 
   capabilities, and procurement trends.  
 • Used ETL process on three datasets along with Power Query M and DAX to ensure data completeness and validity.  
