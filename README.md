@@ -7,7 +7,7 @@ Click Here 👇<br><br>
 <br>
 *Title: Power BI Project - Supplier Insights and Volume Analysis*<br><br>
 
-*Introduction:**<br>
+*Introduction:*<br>
 I recently worked on a Power BI project aimed at providing actionable insights to the Procurement Department by analyzing invoice data, supplier capabilities, and procurement trends. This project involved three datasets: Invoice Data, Material Weights and Sources, and Supplier Data, each contributing to different aspects of the analysis.<br>
 
 **Dashboard 1: Supplier Overview**<br>
